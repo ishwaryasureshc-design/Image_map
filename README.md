@@ -23,6 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
+```
 map.html
 <html>
 <head>
@@ -208,15 +209,15 @@ naturals.html
 
 </body>
 </html>
+```
 
 # OUTPUT!
-![alt text](<../ishwarya/ishu_app/static/Screenshot 2025-10-03 234743.png>)
-![alt text](<../ishwarya/ishu_app/static/Screenshot 2025-10-03 235536.png>)
-![alt text](<../ishwarya/ishu_app/static/Screenshot 2025-10-03 235649.png>)
-![alt text](<../ishwarya/ishu_app/static/Screenshot 2025-10-03 235709.png>)
-![alt text](<../ishwarya/ishu_app/static/Screenshot 2025-10-03 235934.png>)
-![alt text](<../ishwarya/ishu_app/static/Screenshot 2025-10-03 235355.png>)
-
+![alt text](<Screenshot 2025-10-03 234743.png>)
+![alt text](<Screenshot 2025-10-03 235355.png>)
+![alt text](<Screenshot 2025-10-03 235536.png>)
+![alt text](<Screenshot 2025-10-03 235649.png>)
+![alt text](<Screenshot 2025-10-03 235709.png>)
+![alt text](<Screenshot 2025-10-03 235934.png>)
 
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
