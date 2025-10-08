@@ -212,12 +212,36 @@ naturals.html
 ```
 
 # OUTPUT!
-![alt text](<Screenshot 2025-10-03 234743.png>)
-![alt text](<Screenshot 2025-10-03 235355.png>)
-![alt text](<Screenshot 2025-10-03 235536.png>)
-![alt text](<Screenshot 2025-10-03 235649.png>)
-![alt text](<Screenshot 2025-10-03 235709.png>)
-![alt text](<Screenshot 2025-10-03 235934.png>)
+
+
+
+
+
+
+
+
+
+
+
+
+![alt text](<Screenshot 2025-10-01 195037-1.png>)
+
+![alt text](<Screenshot 2025-10-08 002907.png>)
+
+![alt text](<Screenshot 2025-10-08 003114.png>)
+![alt text](<Screenshot 2025-10-08 212241.png>)
+
+
+![alt text](<Screenshot 2025-10-08 212306.png>)
+
+![alt text](<Screenshot 2025-10-08 212659.png>)
+
+
+
+
+
+
+
 
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
